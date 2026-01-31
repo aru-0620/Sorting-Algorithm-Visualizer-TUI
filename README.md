@@ -23,5 +23,5 @@ It visually demonstrates how different sorting algorithms work step-by-step.
 ## 🚀 Installation
 ```bash
 git clone https://github.com/aru-0620/Sorting-Algorithm-Visualizer-TUI
-cd sorting-algorithm-visualizer-tui
+cd Sorting-Algorithm-Visualizer-TUI
 pip install -r requirements.txt
